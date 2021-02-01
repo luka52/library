@@ -1,4 +1,5 @@
-function glow() {var wrapper = document.querySelector(".glowEffect");wrapper.classList.add('hdnsn');
+function glow() {var wrapper = document.querySelector(".glowEffect");
+wrapper.classList.add('hdnsn');
   const linkccc = document.createElement('link')
 linkccc.type="text/css";
 linkccc.rel="stylesheet";
