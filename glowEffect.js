@@ -2,7 +2,7 @@ function glow() {var wrapper = document.querySelector(".glowEffect");wrapper.cla
   const linkccc = document.createElement('link')
 linkccc.type="text/css";
 linkccc.rel="stylesheet";
-linkccc.href="cssforg.css";
+linkccc.href="cssforglowEffect.css";
   document.head.appendChild(linkccc)
 }
 glow();
