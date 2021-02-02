@@ -1,0 +1,35 @@
+.loadingAnimation .loading-word-1{
+  animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 1);}
+.loadingAnimation .loading-word-2{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 2);}
+.loadingAnimation .loading-word-3{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 3);}
+.loadingAnimation .loading-word-4{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 4);}
+.loadingAnimation .loading-word-5{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 5);}
+.loadingAnimation .loading-word-6{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 7);}
+.loadingAnimation .loading-word-8{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 8);}
+.loadingAnimation .loading-word-9{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 9);}
+.loadingAnimation .loading-word-10{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 10);}
+.loadingAnimation .loading-word-11{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 11);}
+.loadingAnimation .loading-word-12{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 12);}
+.loadingAnimation .loading-word-13{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 13);}
+.loadingAnimation .loading-word-14{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 14);}
+.loadingAnimation .loading-word-15{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 15);}
+.loadingAnimation .loading-word-16{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 16);}
+.loadingAnimation .loading-word-17{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 17);}
+.loadingAnimation .loading-word-18{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 18);}
+.loadingAnimation .loading-word-19{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 19);}
+.loadingAnimation .loading-word-20{animation: loadingAnimation1 1s ease-in-out infinite;position: relative;display: inline-block;animation-delay: calc(0.1s * 20);}
+
+
+
+
+@keyframes loadingAnimation1{
+  0{
+    transform: translateY(0px);
+  }
+  20%{
+    transform: translateY(-20px);
+  }
+  40%,100%{
+    transform: translateY(0px);
+  }
+}
