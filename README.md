@@ -19,8 +19,12 @@ ProgressBar(".htmll","95%");
 
 <style>
  .htmll span::after{
-  content: "90%";
+  content: "20%";
 }
+.htmll span{
+  width: 100%;
+}
+
 </style>
 
 <progress-bars>
@@ -39,7 +43,7 @@ ProgressBar(".htmll","95%");
 
 
 
-Animation3D
+Animation3D:
 
 Animation3D("objectlocation", ".class" ,rotationspeed(eg.0.005);
 
