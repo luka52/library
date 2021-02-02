@@ -15,7 +15,7 @@ ProgressBar:
 
 eg.
 
-ProgressBar(".htmll","95%");    
+    
 
 <style>
  .htmll span::after{
