@@ -9,4 +9,3 @@ linkpppp.rel="stylesheet";
 linkpppp.href="progress.css";
 document.head.appendChild(linkpppp)
 }
-ProgressBar(".htmll","95%");
